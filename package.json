@@ -1,0 +1,29 @@
+{
+  "name": "spotishare",
+  "version": "1.0.0",
+  "description": "Share your Spotify liked songs automatically on social networks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busybox11/spotishare.git"
+  },
+  "keywords": [
+    "spotify",
+    "social",
+    "networks",
+    "liked",
+    "songs",
+    "music",
+    "twitter",
+    "discord"
+  ],
+  "author": "busybox11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/busybox11/spotishare/issues"
+  },
+  "homepage": "https://github.com/busybox11/spotishare#readme"
+}
