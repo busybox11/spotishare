@@ -28,7 +28,6 @@
   "homepage": "https://github.com/busybox11/spotishare#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "lokijs": "^1.5.12",
     "spotify-web-api-node": "^5.0.2"
   }
 }
