@@ -105,3 +105,6 @@ dist
 
 # .env file
 .env
+
+# config and cache files
+files/*
